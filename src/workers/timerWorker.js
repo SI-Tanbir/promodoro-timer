@@ -1,4 +1,4 @@
-let time = 1 * 60; // 25 minutes
+let time = 25 * 60; // 25 minutes
 let interval;
 
 self.onmessage = (e) => {
